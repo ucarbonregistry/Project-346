@@ -2,9 +2,8 @@
 Rainwater Harvesting Project by SIIPL, Pune, India
 
 Project Name: Rainwater Harvesting Project by SIIPL, Pune, India
-PCNMR Version 1.0
+
 UCR RoU Scope: RoU Scope 2
-Date of PCNMR: 12/06/2023
 
 1st RoU Crediting Period: 15/03/2017 to 31/12/2022 (05 years, 09 months)
 
