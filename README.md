@@ -60,14 +60,41 @@ SDG Impacts
 5 – SDG 13 Climate Action
 
 6 – SDG 17 Partnerships for the goals
+___________________
+RoU Issuance Date: 001/09/2023
 
-Calculated RoUs per year
-Year RoUs (1000 litres) /yr
-2017 245354
-2018 179472
-2019 345498
-2020 249241
-2021 202072
-2022 188694
-Total 1410331
+Serial Number: 0001-000001-245354-UCR-RoU-IN-346-15032017-31122017
 
+Vintage Year: 2017
+
+RoU's : 245,354
+________________
+Serial Number:0001-245355-424826-UCR-RoU-IN-346-01012018-31122018
+
+Vintage Year:2018
+
+RoU's: 179,472
+______________________
+Serial Number: 0001-424827-770324-UCR-RoU-IN-346-01012019-31122019
+
+Vintage Year: 2019
+
+RoU's: 345,498
+______________________
+Serial Number: 0001-770325-1019565-UCR-RoU-IN-346-01012020-31122020
+
+Vintage Year: 2020
+
+RoU's: 249,241
+_______________________
+Serial Number: 0001-1019566-1221637-UCR-RoU-IN-346-01012021-31122021
+
+Vintage Year: 2021
+
+RoU's: 202,072
+_____________________
+Serial Number: 0001-1-1221638-1410331-UCR-RoU-IN-346-01012022-31122022
+
+Vintage Year: 2022
+
+RoU's: 118,177
